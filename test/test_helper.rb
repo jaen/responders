@@ -9,7 +9,6 @@ require 'mocha'
 ENV["RAILS_ENV"] = "test"
 
 require 'active_support'
-require 'action_controller'
 require 'active_model'
 require 'rails/railtie'
 
